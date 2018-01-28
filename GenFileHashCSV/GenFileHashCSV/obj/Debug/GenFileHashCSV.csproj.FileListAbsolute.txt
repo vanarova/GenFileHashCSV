@@ -1,0 +1,5 @@
+c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\GenFileHashCSV\obj\Debug\GenFileHashCSV.csprojResolveAssemblyReference.cache
+c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\GenFileHashCSV\bin\Debug\GenFileHashCSV.dll
+c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\GenFileHashCSV\bin\Debug\GenFileHashCSV.pdb
+c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\GenFileHashCSV\obj\Debug\GenFileHashCSV.dll
+c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\GenFileHashCSV\obj\Debug\GenFileHashCSV.pdb
