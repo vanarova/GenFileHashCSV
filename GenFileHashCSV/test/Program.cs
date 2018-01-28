@@ -10,7 +10,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            GenFileHashCSV.FileHashCSV.Generate(@"C:\Users\h175494\Documents\Visual Studio 2015\Projects\GenFileHashCSV\test");
+            GenFileHashCSV.FileHashCSV.Generate(@"C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\GenFileHashCSV");
         }
     }
 }

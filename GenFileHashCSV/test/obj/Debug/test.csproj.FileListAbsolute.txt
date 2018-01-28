@@ -6,3 +6,11 @@ c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\test\obj\D
 c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\test\obj\Debug\test.pdb
 c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\test\bin\Debug\GenFileHashCSV.dll
 c:\users\h175494\documents\visual studio 2015\Projects\GenFileHashCSV\test\bin\Debug\GenFileHashCSV.pdb
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\bin\Debug\test.exe.config
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\obj\Debug\test.exe
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\obj\Debug\test.pdb
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\bin\Debug\test.exe
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\bin\Debug\test.pdb
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\bin\Debug\GenFileHashCSV.dll
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\bin\Debug\GenFileHashCSV.pdb
+C:\Sources\Git\vanarovaTestProgs\FilesHash\GenFileHashCSV\GenFileHashCSV\test\obj\Debug\test.csprojResolveAssemblyReference.cache
